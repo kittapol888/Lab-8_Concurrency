@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class BankTest {
     public static void main(String[] args){
         BankAccount a = new BankAccount();
